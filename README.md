@@ -13,7 +13,7 @@ Amazon Elastic Beanstalk is a Platform as a Service (PaaS) that simplifies the d
 
 ---
 
-## 🏗 Project Architecture
+##  Project Architecture
 
 
 ```
