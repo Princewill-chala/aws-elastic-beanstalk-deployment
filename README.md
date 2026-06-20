@@ -3,6 +3,8 @@
 <p align="center">
     <img src="screenshots/beanstalk_banner.png" alt="AWS Elastic Beanstalk banner" width="900">
 </p>
+
+> *Leveraging AWS Elastic Beanstalk for efficient application lifecycle management.*
 ---
 
 ##  Project Overview
